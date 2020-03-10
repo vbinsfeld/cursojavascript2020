@@ -19,7 +19,7 @@ valores.push({id: 3}, false, null, 'texto')
 console.log(valores)
 console.log(valores.length)
 
-valores.pop() //retira o último valro do array, no caso 'texto'
+valores.pop() //retira o último valor do array, no caso 'texto'
 console.log(valores)
 console.log(valores.length)
 
