@@ -16,7 +16,7 @@ function soma(a, b = 2){
 
 }
 
-console.log(soma(23123132))
-console.log(soma(2, 5))
-console.log(soma())
+console.log(soma(23123132));
+console.log(soma(2, 5));
+console.log(soma());
 
